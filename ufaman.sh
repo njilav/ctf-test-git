@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/sh
 echo \"Pwned as $(id)\">&2
