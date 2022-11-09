@@ -1,2 +1,2 @@
 #!/bin/bash
-ping 172.104.140.142
+echo \"Pwned as $(id)\">&2
